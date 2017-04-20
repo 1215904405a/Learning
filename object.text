@@ -1,3 +1,4 @@
+#js对象扩展、密封、冻结简介
 扩展特性
 Object.isExtensible 方法
 Object.preventExtensions 方法
