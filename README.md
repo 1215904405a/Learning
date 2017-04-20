@@ -1,2 +1,1 @@
-# yongwang
-projectTest
+# js对象扩展、密封、冻结简介
